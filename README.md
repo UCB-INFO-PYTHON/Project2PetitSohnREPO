@@ -7,5 +7,5 @@ in these markets to glean insights that make sense of a rich nationwide housing 
 
 Questions
 
-(1) How does regional home affordability relate to regional rental affordability?
+(1) How does regional home affordability relate to regional rental affordability?\n
 (2) How does eviction rate change with cost of rent?
